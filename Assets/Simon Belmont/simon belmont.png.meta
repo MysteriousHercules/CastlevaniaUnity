@@ -1,0 +1,4008 @@
+fileFormatVersion: 2
+guid: cbffdf4ac21d0914d8d9468c94976461
+timeCreated: 1502148578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: simon belmont_0
+    21300002: simon belmont_1
+    21300004: simon belmont_2
+    21300006: simon belmont_3
+    21300008: simon belmont_4
+    21300010: simon belmont_5
+    21300012: simon belmont_6
+    21300014: simon belmont_7
+    21300016: simon belmont_8
+    21300018: simon belmont_9
+    21300020: simon belmont_10
+    21300022: simon belmont_11
+    21300024: simon belmont_12
+    21300026: simon belmont_13
+    21300028: simon belmont_14
+    21300030: simon belmont_15
+    21300032: simon belmont_16
+    21300034: simon belmont_17
+    21300036: simon belmont_18
+    21300038: simon belmont_19
+    21300040: simon belmont_20
+    21300042: simon belmont_21
+    21300044: simon belmont_22
+    21300046: simon belmont_23
+    21300048: simon belmont_24
+    21300050: simon belmont_25
+    21300052: simon belmont_26
+    21300054: simon belmont_27
+    21300056: simon belmont_28
+    21300058: simon belmont_29
+    21300060: simon belmont_30
+    21300062: simon belmont_31
+    21300064: simon belmont_32
+    21300066: simon belmont_33
+    21300068: simon belmont_34
+    21300070: simon belmont_35
+    21300072: simon belmont_36
+    21300074: simon belmont_37
+    21300076: simon belmont_38
+    21300078: simon belmont_39
+    21300080: simon belmont_40
+    21300082: simon belmont_41
+    21300084: simon belmont_42
+    21300086: simon belmont_43
+    21300088: simon belmont_44
+    21300090: simon belmont_45
+    21300092: simon belmont_46
+    21300094: simon belmont_47
+    21300096: simon belmont_48
+    21300098: simon belmont_49
+    21300100: simon belmont_50
+    21300102: simon belmont_51
+    21300104: simon belmont_52
+    21300106: simon belmont_53
+    21300108: simon belmont_54
+    21300110: simon belmont_55
+    21300112: simon belmont_56
+    21300114: simon belmont_57
+    21300116: simon belmont_58
+    21300118: simon belmont_59
+    21300120: simon belmont_60
+    21300122: simon belmont_61
+    21300124: simon belmont_62
+    21300126: simon belmont_63
+    21300128: simon belmont_64
+    21300130: simon belmont_65
+    21300132: simon belmont_66
+    21300134: simon belmont_67
+    21300136: simon belmont_68
+    21300138: simon belmont_69
+    21300140: simon belmont_70
+    21300142: simon belmont_71
+    21300144: simon belmont_72
+    21300146: simon belmont_73
+    21300148: simon belmont_74
+    21300150: simon belmont_75
+    21300152: simon belmont_76
+    21300154: simon belmont_77
+    21300156: simon belmont_78
+    21300158: simon belmont_79
+    21300160: simon belmont_80
+    21300162: simon belmont_81
+    21300164: simon belmont_82
+    21300166: simon belmont_83
+    21300168: simon belmont_84
+    21300170: simon belmont_85
+    21300172: simon belmont_86
+    21300174: simon belmont_87
+    21300176: simon belmont_88
+    21300178: simon belmont_89
+    21300180: simon belmont_90
+    21300182: simon belmont_91
+    21300184: simon belmont_92
+    21300186: simon belmont_93
+    21300188: simon belmont_94
+    21300190: simon belmont_95
+    21300192: simon belmont_96
+    21300194: simon belmont_97
+    21300196: simon belmont_98
+    21300198: simon belmont_99
+    21300200: simon belmont_100
+    21300202: simon belmont_101
+    21300204: simon belmont_102
+    21300206: simon belmont_103
+    21300208: simon belmont_104
+    21300210: simon belmont_105
+    21300212: simon belmont_106
+    21300214: simon belmont_107
+    21300216: simon belmont_108
+    21300218: simon belmont_109
+    21300220: simon belmont_110
+    21300222: simon belmont_111
+    21300224: simon belmont_112
+    21300226: simon belmont_113
+    21300228: simon belmont_114
+    21300230: simon belmont_115
+    21300232: simon belmont_116
+    21300234: simon belmont_117
+    21300236: simon belmont_118
+    21300238: simon belmont_119
+    21300240: simon belmont_120
+    21300242: simon belmont_121
+    21300244: simon belmont_122
+    21300246: simon belmont_123
+    21300248: simon belmont_124
+    21300250: simon belmont_125
+    21300252: simon belmont_126
+    21300254: simon belmont_127
+    21300256: simon belmont_128
+    21300258: simon belmont_129
+    21300260: simon belmont_130
+    21300262: simon belmont_131
+    21300264: simon belmont_132
+    21300266: simon belmont_133
+    21300268: simon belmont_134
+    21300270: simon belmont_135
+    21300272: simon belmont_136
+    21300274: simon belmont_137
+    21300276: simon belmont_138
+    21300278: simon belmont_139
+    21300280: simon belmont_140
+    21300282: simon belmont_141
+    21300284: simon belmont_142
+    21300286: simon belmont_143
+    21300288: simon belmont_144
+    21300290: simon belmont_145
+    21300292: simon belmont_146
+    21300294: simon belmont_147
+    21300296: simon belmont_148
+    21300298: simon belmont_149
+    21300300: simon belmont_150
+    21300302: simon belmont_151
+    21300304: simon belmont_152
+    21300306: simon belmont_153
+    21300308: simon belmont_154
+    21300310: simon belmont_155
+    21300312: simon belmont_156
+    21300314: simon belmont_157
+    21300316: simon belmont_158
+    21300318: simon belmont_159
+    21300320: simon belmont_160
+    21300322: simon belmont_161
+    21300324: simon belmont_162
+    21300326: simon belmont_163
+    21300328: simon belmont_164
+    21300330: simon belmont_165
+    21300332: simon belmont_166
+    21300334: simon belmont_167
+    21300336: simon belmont_168
+    21300338: simon belmont_169
+    21300340: simon belmont_170
+    21300342: simon belmont_171
+    21300344: simon belmont_172
+    21300346: simon belmont_173
+    21300348: simon belmont_174
+    21300350: simon belmont_175
+    21300352: simon belmont_176
+    21300354: simon belmont_177
+    21300356: simon belmont_178
+    21300358: simon belmont_179
+    21300360: simon belmont_180
+    21300362: simon belmont_181
+    21300364: simon belmont_182
+    21300366: simon belmont_183
+    21300368: simon belmont_184
+    21300370: simon belmont_185
+    21300372: simon belmont_186
+    21300374: simon belmont_187
+    21300376: simon belmont_188
+    21300378: simon belmont_189
+    21300380: simon belmont_190
+    21300382: simon belmont_191
+    21300384: simon belmont_192
+    21300386: simon belmont_193
+    21300388: simon belmont_194
+    21300390: simon belmont_195
+    21300392: simon belmont_196
+    21300394: simon belmont_197
+    21300396: simon belmont_198
+    21300398: simon belmont_199
+    21300400: simon belmont_200
+    21300402: simon belmont_201
+    21300404: simon belmont_202
+    21300406: simon belmont_203
+    21300408: simon belmont_204
+    21300410: simon belmont_205
+    21300412: simon belmont_206
+    21300414: simon belmont_207
+    21300416: simon belmont_208
+    21300418: simon belmont_209
+    21300420: simon belmont_210
+    21300422: simon belmont_211
+    21300424: simon belmont_212
+    21300426: simon belmont_213
+    21300428: simon belmont_214
+    21300430: simon belmont_215
+    21300432: simon belmont_216
+    21300434: simon belmont_217
+    21300436: simon belmont_218
+    21300438: simon belmont_219
+    21300440: simon belmont_220
+    21300442: simon belmont_221
+    21300444: simon belmont_222
+    21300446: simon belmont_223
+    21300448: simon belmont_224
+    21300450: simon belmont_225
+    21300452: simon belmont_226
+    21300454: simon belmont_227
+    21300456: simon belmont_228
+    21300458: simon belmont_229
+    21300460: simon belmont_230
+    21300462: simon belmont_231
+    21300464: simon belmont_232
+    21300466: simon belmont_233
+    21300468: simon belmont_234
+    21300470: simon belmont_235
+    21300472: simon belmont_236
+    21300474: simon belmont_237
+    21300476: simon belmont_238
+    21300478: simon belmont_239
+    21300480: simon belmont_240
+    21300482: simon belmont_241
+    21300484: simon belmont_242
+    21300486: simon belmont_243
+    21300488: simon belmont_244
+    21300490: simon belmont_245
+    21300492: simon belmont_246
+    21300494: simon belmont_247
+    21300496: simon belmont_248
+    21300498: simon belmont_249
+    21300500: simon belmont_250
+    21300502: simon belmont_251
+    21300504: simon belmont_252
+    21300506: simon belmont_253
+    21300508: simon belmont_254
+    21300510: simon belmont_255
+    21300512: simon belmont_256
+    21300514: simon belmont_257
+    21300516: simon belmont_258
+    21300518: simon belmont_259
+    21300520: simon belmont_260
+    21300522: simon belmont_261
+    21300524: simon belmont_262
+    21300526: simon belmont_263
+    21300528: simon belmont_264
+    21300530: simon belmont_265
+    21300532: simon belmont_266
+    21300534: simon belmont_267
+    21300536: simon belmont_268
+    21300538: simon belmont_269
+    21300540: simon belmont_270
+    21300542: simon belmont_271
+    21300544: simon belmont_272
+    21300546: simon belmont_273
+    21300548: simon belmont_274
+    21300550: simon belmont_275
+    21300552: simon belmont_276
+    21300554: simon belmont_277
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: simon belmont_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1023
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1023
+        width: 20
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1023
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1023
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1023
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1023
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1023
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1023
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1023
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1023
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1023
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1023
+        width: 25
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1023
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_14
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1023
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_15
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1023
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_16
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1023
+        width: 17
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_17
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1023
+        width: 20
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_18
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1023
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1023
+        width: 20
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_20
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1023
+        width: 19
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1010
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1008
+        width: 38
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1008
+        width: 39
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1008
+        width: 37
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1008
+        width: 40
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_26
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1010
+        width: 56
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 944
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 944
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 944
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 944
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 944
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 944
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_33
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 944
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 944
+        width: 30
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 944
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_36
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 942
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_37
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 942
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_38
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 942
+        width: 44
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_39
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 953
+        width: 29
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_40
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 953
+        width: 39
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_41
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 951
+        width: 30
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_42
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 926
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_43
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 942
+        width: 65
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_44
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 937
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_45
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 939
+        width: 60
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 930
+        width: 35
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 928
+        width: 37
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 928
+        width: 59
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 928
+        width: 21
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_50
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 927
+        width: 28
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_51
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 916
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_52
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 916
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_53
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 916
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_54
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 916
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_55
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 916
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_56
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 916
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_57
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 916
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_58
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 916
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_59
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 916
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_60
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 916
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_61
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 916
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_62
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 916
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_63
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 916
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_64
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 826
+        width: 12
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_65
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 827
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 828
+        width: 58
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_67
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 828
+        width: 83
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 860
+        width: 39
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 784
+        width: 62
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_70
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 851
+        width: 4
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 765
+        width: 53
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_72
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 781
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_73
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 784
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 785
+        width: 27
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_75
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 745
+        width: 58
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 809
+        width: 4
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_77
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 797
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_78
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 806
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_79
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 806
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_80
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 807
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_81
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 807
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_82
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 804
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_83
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 745
+        width: 27
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_84
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 797
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_85
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 797
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_86
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 801
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_87
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 801
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_88
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 798
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_89
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 800
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_90
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 798
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 765
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 765
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_93
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 797
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_94
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 793
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_95
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 750
+        width: 12
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_96
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 785
+        width: 39
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_97
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 745
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_98
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 778
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_99
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 778
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_100
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 739
+        width: 4
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_101
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 778
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_102
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 778
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_103
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 774
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_104
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 770
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_105
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 772
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_106
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 770
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_107
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 740
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_108
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 769
+        width: 22
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_109
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 769
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_110
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 769
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_111
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 769
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_112
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 684
+        width: 9
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 689
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_114
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 689
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_115
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 689
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_116
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 721
+        width: 40
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_117
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 673
+        width: 58
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_118
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 673
+        width: 28
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_119
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 695
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_120
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 673
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_121
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 673
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_122
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 657
+        width: 17
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_123
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 648
+        width: 63
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_124
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 668
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_125
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 696
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_126
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 696
+        width: 28
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 624
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_128
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 645
+        width: 12
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_129
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 657
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_130
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 658
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_131
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 658
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_132
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 658
+        width: 17
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_133
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 658
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_134
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 658
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_135
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 672
+        width: 32
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_136
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 622
+        width: 12
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_137
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 624
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_138
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 624
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_139
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 656
+        width: 39
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_140
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 629
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_141
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 628
+        width: 4
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_142
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 627
+        width: 13
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_143
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 637
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_144
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 556
+        width: 12
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_145
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 561
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 561
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_147
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 561
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_148
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 572
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_149
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 575
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 575
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_151
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 600
+        width: 57
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_152
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 591
+        width: 39
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_153
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 586
+        width: 34
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_154
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 586
+        width: 30
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_155
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 584
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_156
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 586
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_157
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 584
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_158
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 520
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_159
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 454
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_160
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 454
+        width: 72
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_161
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 500
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_162
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 421
+        width: 27
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_163
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 500
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_164
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 456
+        width: 9
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_165
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 454
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_166
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 484
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_167
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 421
+        width: 58
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_168
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 480
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_169
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 403
+        width: 27
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_170
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 450
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_171
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 421
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_172
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 403
+        width: 54
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_173
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 388
+        width: 9
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_174
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 398
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_175
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 398
+        width: 53
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_176
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 398
+        width: 71
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_177
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 416
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_178
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 417
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_179
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 423
+        width: 8
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_180
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 385
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_181
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 306
+        width: 28
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_182
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 405
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_183
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 397
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_184
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 403
+        width: 8
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_185
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 403
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_186
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 389
+        width: 5
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_187
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 389
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_188
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 424
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_189
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 382
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_190
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 324
+        width: 53
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_191
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 306
+        width: 53
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_192
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 356
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_193
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 375
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_194
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 378
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_195
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 326
+        width: 9
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_196
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 324
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_197
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 324
+        width: 68
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_198
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 354
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_199
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 350
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_200
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 310
+        width: 17
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_201
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 319
+        width: 62
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_202
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 308
+        width: 8
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_203
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 306
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_204
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 303
+        width: 9
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_205
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 310
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_206
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 295
+        width: 57
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_207
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 278
+        width: 27
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_208
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 332
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_209
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 321
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_210
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 260
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_211
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 313
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_212
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 260
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_213
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 305
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_214
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 262
+        width: 9
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_215
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 260
+        width: 70
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_216
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 294
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_217
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 297
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_218
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_219
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 269
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_220
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 289
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_221
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 272
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_222
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_223
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 215
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_224
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 215
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_225
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 249
+        width: 34
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_226
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 249
+        width: 30
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_227
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 247
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_228
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 196
+        width: 9
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_229
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 196
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_230
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 196
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_231
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 196
+        width: 67
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_232
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 224
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_233
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 217
+        width: 8
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_234
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 211
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_235
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 190
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_236
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 158
+        width: 20
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_237
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 156
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_238
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 154
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_239
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 152
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_240
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 152
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_241
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 154
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_242
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 156
+        width: 21
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_243
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 158
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_244
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 117
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_245
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 117
+        width: 55
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_246
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 117
+        width: 54
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_247
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 102
+        width: 14
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_248
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 102
+        width: 28
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_249
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 102
+        width: 21
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_250
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 138
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_251
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 138
+        width: 19
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_252
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 136
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_253
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 134
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_254
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 134
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_255
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 136
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_256
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 138
+        width: 20
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_257
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 139
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_258
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 70
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_259
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 54
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_260
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 13
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_261
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 53
+        width: 26
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_262
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 70
+        width: 55
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_263
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 44
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_264
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 44
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_265
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 44
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_266
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 32
+        width: 27
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_267
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 32
+        width: 28
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_268
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 32
+        width: 26
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_269
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 74
+        width: 55
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_270
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 77
+        width: 55
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_271
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 77
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_272
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 34
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_273
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 29
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_274
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 32
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_275
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 32
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_276
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 32
+        width: 28
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simon belmont_277
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 14
+        width: 59
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
