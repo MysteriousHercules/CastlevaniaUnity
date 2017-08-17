@@ -16,8 +16,12 @@ public class PlayerScript : MonoBehaviour
     private Rigidbody2D SimonBody;
     public float jumpspeed = 10f;
     private CapsuleCollider2D myCollider;
-    private bool isGrounded;
+    private bool isGrounded = false;
     private float distToGround;
+    private bool DoOnce;
+    private SpriteRenderer SimonSprite;
+    private bool attacking;
+    public float WhippingDuration;
 
     // Use this for initialization
     void Start()
@@ -30,43 +34,49 @@ public class PlayerScript : MonoBehaviour
         spriteHeight = GetComponent<SpriteRenderer>().bounds.max.y - GetComponent<SpriteRenderer>().bounds.min.y;
         SimonBody = GetComponent<Rigidbody2D>();
         myCollider = GetComponent<CapsuleCollider2D>();
-        
+        SimonSprite = GetComponent<SpriteRenderer>();
     }
-    bool isGroundedfunc()
-    {
-        return Physics.Raycast(transform.position, -Vector3.up, distToGround + 0.1f);
-    }
+
+
+
     private void OnCollisionStay2D(Collision2D collision)
     {
-        CheckIfGrounded();   
+        isGrounded = true;
     }
+
     private void OnCollisionExit2D(Collision2D collision)
     {
         isGrounded = false;
     }
-    private void CheckIfGrounded()
+
+    // Update is called once per frame
+    void FixedUpdate()
     {
-        RaycastHit2D[] hits;
-
-        //We raycast down 1 pixel from this position to check for a collider
-        Vector2 positionToCheck = transform.position;
-        hits = Physics2D.RaycastAll(positionToCheck, new Vector2(0, -1), 0.01f);
-
-        //if a collider was hit, we are grounded
-        if (hits.Length > 0)
-        {
-            isGrounded = true;
-        }
-    }
-        // Update is called once per frame
-        void FixedUpdate()
-    {
-
+        
+        
+        anim.SetBool("Attacking", attacking);
 
         print(isGrounded);
-        isGrounded = isGroundedfunc();
+        
+        if (Input.GetAxis(axisName) <0 && transform.rotation.y != 180)
+        {
 
+            transform.SetPositionAndRotation(transform.position, new Quaternion(transform.rotation.x, 180, transform.rotation.z, transform.rotation.w));
+        }
+        if(Input.GetAxis(axisName) > 0 && !DoOnce && transform.rotation.y != 0)
+        {
+            transform.SetPositionAndRotation(transform.position, new Quaternion(transform.rotation.x, 0, transform.rotation.z, transform.rotation.w));
+        }
 
+        anim.SetFloat("aVelocity",Mathf.Abs (Input.GetAxis(axisName)));
+        anim.SetBool("inAir", !isGrounded);
+        
+        
+        if (Input.GetButtonDown("Attack"))
+        {
+            attacking = true;
+            StopAttacking();
+        }
 
         //allows player to move as long as it is withing boundaries of camera
         
@@ -78,5 +88,14 @@ public class PlayerScript : MonoBehaviour
             print("jumping");
             SimonBody.AddForce(new Vector2(0, 7), ForceMode2D.Impulse);
         }  
+    }
+    IEnumerator costopAttacking()
+    {
+        yield return new WaitForSeconds(WhippingDuration);
+        attacking = false;
+    }
+    void StopAttacking()
+    {
+        StartCoroutine(costopAttacking());
     }
 }
