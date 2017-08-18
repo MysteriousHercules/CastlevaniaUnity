@@ -123,7 +123,7 @@ public class PlayerScript : MonoBehaviour
         anim.SetBool("inAir", !isGrounded);
         
         
-        if (Input.GetButtonDown("Attack"))
+        if (Input.GetButtonDown("Attack") && !attacking)
         {
             attacking = true;
             StopAttacking();
