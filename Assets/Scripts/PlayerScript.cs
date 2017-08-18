@@ -88,6 +88,7 @@ public class PlayerScript : MonoBehaviour
             print("jumping");
             SimonBody.AddForce(new Vector2(0, 7), ForceMode2D.Impulse);
         }  
+			
     }
     IEnumerator costopAttacking()
     {
@@ -98,4 +99,9 @@ public class PlayerScript : MonoBehaviour
     {
         StartCoroutine(costopAttacking());
     }
+
+	void OnCollisionEnter2D(Collision2D coll) {
+		if (coll.gameObject.tag == "Enemy")
+			Destroy(gameObject);
+	}
 }
