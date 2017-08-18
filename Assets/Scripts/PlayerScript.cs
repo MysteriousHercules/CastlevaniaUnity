@@ -27,6 +27,7 @@ public class PlayerScript : MonoBehaviour
     private bool isDodging;
     private bool LookingRight = true;
     private Animation anima;
+    private bool doOnceJump = true;
     [HideInInspector]
     public Collider2D whipHitbox;
     // Use this for initialization
@@ -134,12 +135,16 @@ public class PlayerScript : MonoBehaviour
             transform.position += new Vector3((Input.GetAxis(axisName) * speed * Time.deltaTime), 0, 0);
         
             transform.position = (new Vector3(Mathf.Clamp(transform.position.x, currentbackgroundSprite.bounds.min.x + spriteWidth, currentbackgroundSprite.bounds.max.x -spriteWidth), transform.position.y, transform.position.z));
-        if (Input.GetButtonDown("Jump") && isGrounded)
+        if (Input.GetButtonDown("Jump") && isGrounded && doOnceJump)
         {
+            doOnceJump = false;
             print("jumping");
-            SimonBody.AddForce(new Vector2(0, 7), ForceMode2D.Impulse);
-        }  
-			
+            SimonBody.AddForce(new Vector2(0, jumpspeed), ForceMode2D.Impulse);
+        }
+        if (isGrounded)
+        {
+            doOnceJump = true;
+        }
     }
     IEnumerator costopAttacking()
     {
