@@ -83,7 +83,7 @@ public class PlayerScript : MonoBehaviour
             transform.position += new Vector3((Input.GetAxis(axisName) * speed * Time.deltaTime), 0, 0);
         
             transform.position = (new Vector3(Mathf.Clamp(transform.position.x, currentbackgroundSprite.bounds.min.x + spriteWidth, currentbackgroundSprite.bounds.max.x -spriteWidth), transform.position.y, transform.position.z));
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && isGrounded)
         {
             print("jumping");
             SimonBody.AddForce(new Vector2(0, 7), ForceMode2D.Impulse);
