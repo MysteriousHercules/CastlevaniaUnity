@@ -19,8 +19,10 @@ public class followcharacterscript : MonoBehaviour {
         {
             currentPlayer = FindObjectOfType<PlayerScript>();
         }
-        distanceToPlayer = Vector2.Distance(transform.position, currentPlayer.transform.position);
-
+        if (currentPlayer != null)
+        {
+            distanceToPlayer = Vector2.Distance(transform.position, currentPlayer.transform.position);
+        }
         if(distanceToPlayer < range)
         {
             followPlayer();
@@ -28,18 +30,22 @@ public class followcharacterscript : MonoBehaviour {
 	}
     void followPlayer()
     {
-        if(currentPlayer.transform.position.x < transform.position.x)
+        if (currentPlayer != null)
         {
-            transform.position -= new Vector3(speedOfEnemy,0,0);
-            transform.SetPositionAndRotation(transform.position, new Quaternion(transform.rotation.x, 0, transform.rotation.z, transform.rotation.w));
+            if (currentPlayer.transform.position.x < transform.position.x)
+            {
+                transform.position -= new Vector3(speedOfEnemy / 10, 0, 0);
+                transform.SetPositionAndRotation(transform.position, new Quaternion(transform.rotation.x, 0, transform.rotation.z, transform.rotation.w));
 
 
-        }
-        else
-        {
-            transform.position += new Vector3(speedOfEnemy, 0, 0);
-            transform.SetPositionAndRotation(transform.position, new Quaternion(transform.rotation.x, 180, transform.rotation.z, transform.rotation.w));
+            }
+            else if(currentPlayer.transform.position.x > transform.position.x)
+            {
+                transform.position += new Vector3(speedOfEnemy / 10, 0, 0);
+                transform.SetPositionAndRotation(transform.position, new Quaternion(transform.rotation.x, 180, transform.rotation.z, transform.rotation.w));
 
+            }
         }
     }
+    
 }

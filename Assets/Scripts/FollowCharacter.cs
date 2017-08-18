@@ -38,10 +38,12 @@ public class FollowCharacter : MonoBehaviour {
             oldTarget = backGroundOfThisLevel;
         }
 
-       
+
         //camera always centers on player unless it touches the boundaries of background
-            transform.position = new Vector3(Mathf.Clamp( target.transform.position.x,minX  + cameraComponentReference.orthographicSize * 1.4f,maxX - cameraComponentReference.orthographicSize * 1.4f), transform.position.y, transform.position.z);
-        
+        if (target != null)
+        {
+            transform.position = new Vector3(Mathf.Clamp(target.transform.position.x, minX + cameraComponentReference.orthographicSize * 1.4f, maxX - cameraComponentReference.orthographicSize * 1.4f), transform.position.y, transform.position.z);
+        }
     }
     void AdjustCameraForBackgroundBoundaries()
     {
