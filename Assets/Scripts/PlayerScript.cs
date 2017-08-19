@@ -30,6 +30,8 @@ public class PlayerScript : MonoBehaviour
     private bool doOnceJump = true;
     [HideInInspector]
     public Collider2D whipHitbox;
+    private Collider LegCollider;
+    private Collider BodyCollider;
     // Use this for initialization
     void Start()
     {
@@ -61,6 +63,7 @@ public class PlayerScript : MonoBehaviour
     {
         if (isDodging)
         {
+            
             if (LookingRight)
             {
                 transform.position += new Vector3(1 * SideStepspeed/10, 0, 0);
@@ -159,10 +162,16 @@ public class PlayerScript : MonoBehaviour
 
 	void OnCollisionEnter2D(Collision2D coll) {
      
-        if (coll.gameObject.tag == "Enemy" && !isDodging)
+        if (coll.gameObject.tag == "Enemy")
         {
             Destroy(gameObject);
         }
+        if (isDodging)
+        {
+            Physics.IgnoreCollision(LegCollider, coll.gameObject.GetComponent<Collider>());
+            
+        }
+
        
 	}
     private void OnTriggerEnter2D(Collider2D collision)
