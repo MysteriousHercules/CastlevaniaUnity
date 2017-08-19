@@ -27,6 +27,7 @@ public class followcharacterscript : MonoBehaviour {
         {
             followPlayer();
         }
+       
 	}
     void followPlayer()
     {

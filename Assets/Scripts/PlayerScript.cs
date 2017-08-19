@@ -166,11 +166,7 @@ public class PlayerScript : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        if (isDodging)
-        {
-            Physics.IgnoreCollision(LegCollider, coll.gameObject.GetComponent<Collider>());
-            
-        }
+        
 
        
 	}
