@@ -44,7 +44,7 @@ public class PlayerScript : MonoBehaviour
         SimonBody = GetComponent<Rigidbody2D>();
         
         SimonSprite = GetComponent<SpriteRenderer>();
-        whipHitbox = GetComponentsInChildren<BoxCollider2D>()[2];
+        whipHitbox = GetComponentsInChildren<BoxCollider2D>()[1];
         whipHitbox.enabled = false;
     }
 
@@ -59,11 +59,14 @@ public class PlayerScript : MonoBehaviour
     {
         isGrounded = false;
     }
+
     private void Dodgeing()
     {
+        
         if (isDodging)
         {
-            
+            Physics2D.IgnoreLayerCollision(gameObject.layer, 8);
+
             if (LookingRight)
             {
                 transform.position += new Vector3(1 * SideStepspeed/10, 0, 0);
@@ -90,8 +93,8 @@ public class PlayerScript : MonoBehaviour
     void FixedUpdate()
 
     {
-        
-        if(whipHitbox.enabled)
+        print(isDodging);
+                 if (whipHitbox.enabled)
         {
             print("activated");
         }
