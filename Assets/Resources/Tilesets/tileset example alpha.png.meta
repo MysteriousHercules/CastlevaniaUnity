@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: dc506c139d3f1b64b9d4599f357a07bc
+timeCreated: 1503170897
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tileset example alpha_0
+    21300002: tileset example alpha_1
+    21300004: tileset example alpha_2
+    21300006: tileset example alpha_3
+    21300008: tileset example alpha_4
+    21300010: tileset example alpha_5
+    21300012: tileset example alpha_6
+    21300014: tileset example alpha_7
+    21300016: tileset example alpha_8
+    21300018: tileset example alpha_9
+    21300020: tileset example alpha_10
+    21300022: tileset example alpha_11
+    21300024: tileset example alpha_12
+    21300026: tileset example alpha_13
+    21300028: tileset example alpha_14
+    21300030: tileset example alpha_15
+    21300032: tileset example alpha_16
+    21300034: tileset example alpha_17
+    21300036: tileset example alpha_18
+    21300038: tileset example alpha_19
+    21300040: tileset example alpha_20
+    21300042: tileset example alpha_21
+    21300044: tileset example alpha_22
+    21300046: tileset example alpha_23
+    21300048: tileset example alpha_24
+    21300050: tileset example alpha_25
+    21300052: tileset example alpha_26
+    21300054: tileset example alpha_27
+    21300056: tileset example alpha_28
+    21300058: tileset example alpha_29
+    21300060: tileset example alpha_30
+    21300062: tileset example alpha_31
+    21300064: tileset example alpha_32
+    21300066: tileset example alpha_33
+    21300068: tileset example alpha_34
+    21300070: tileset example alpha_35
+    21300072: tileset example alpha_36
+    21300074: tileset example alpha_37
+    21300076: tileset example alpha_38
+    21300078: tileset example alpha_39
+    21300080: tileset example alpha_40
+    21300082: tileset example alpha_41
+    21300084: tileset example alpha_42
+    21300086: tileset example alpha_43
+    21300088: tileset example alpha_44
+    21300090: tileset example alpha_45
+    21300092: tileset example alpha_46
+    21300094: tileset example alpha_47
+    21300096: tileset example alpha_48
+    21300098: tileset example alpha_49
+    21300100: tileset example alpha_50
+    21300102: tileset example alpha_51
+    21300104: tileset example alpha_52
+    21300106: tileset example alpha_53
+    21300108: tileset example alpha_54
+    21300110: tileset example alpha_55
+    21300112: tileset example alpha_56
+    21300114: tileset example alpha_57
+    21300116: tileset example alpha_58
+    21300118: tileset example alpha_59
+    21300120: tileset example alpha_60
+    21300122: tileset example alpha_61
+    21300124: tileset example alpha_62
+    21300126: tileset example alpha_63
+    21300128: tileset example alpha_64
+    21300130: tileset example alpha_65
+    21300132: tileset example alpha_66
+    21300134: tileset example alpha_67
+    21300136: tileset example alpha_68
+    21300138: tileset example alpha_69
+    21300140: tileset example alpha_70
+    21300142: tileset example alpha_71
+    21300144: tileset example alpha_72
+    21300146: tileset example alpha_73
+    21300148: tileset example alpha_74
+    21300150: tileset example alpha_75
+    21300152: tileset example alpha_76
+    21300154: tileset example alpha_77
+    21300156: tileset example alpha_78
+    21300158: tileset example alpha_79
+    21300160: tileset example alpha_80
+    21300162: tileset example alpha_81
+    21300164: tileset example alpha_82
+    21300166: tileset example alpha_83
+    21300168: tileset example alpha_84
+    21300170: tileset example alpha_85
+    21300172: tileset example alpha_86
+    21300174: tileset example alpha_87
+    21300176: tileset example alpha_88
+    21300178: tileset example alpha_89
+    21300180: tileset example alpha_90
+    21300182: tileset example alpha_91
+    21300184: tileset example alpha_92
+    21300186: tileset example alpha_93
+    21300188: tileset example alpha_94
+    21300190: tileset example alpha_95
+    21300192: tileset example alpha_96
+    21300194: tileset example alpha_97
+    21300196: tileset example alpha_98
+    21300198: tileset example alpha_99
+    21300200: tileset example alpha_100
+    21300202: tileset example alpha_101
+    21300204: tileset example alpha_102
+    21300206: tileset example alpha_103
+    21300208: tileset example alpha_104
+    21300210: tileset example alpha_105
+    21300212: tileset example alpha_106
+    21300214: tileset example alpha_107
+    21300216: tileset example alpha_108
+    21300218: tileset example alpha_109
+    21300220: tileset example alpha_110
+    21300222: tileset example alpha_111
+    21300224: tileset example alpha_112
+    21300226: tileset example alpha_113
+    21300228: tileset example alpha_114
+    21300230: tileset example alpha_115
+    21300232: tileset example alpha_116
+    21300234: tileset example alpha_117
+    21300236: tileset example alpha_118
+    21300238: tileset example alpha_119
+    21300240: tileset example alpha_120
+    21300242: tileset example alpha_121
+    21300244: tileset example alpha_122
+    21300246: tileset example alpha_123
+    21300248: tileset example alpha_124
+    21300250: tileset example alpha_125
+    21300252: tileset example alpha_126
+    21300254: tileset example alpha_127
+    21300256: tileset example alpha_128
+    21300258: tileset example alpha_129
+    21300260: tileset example alpha_130
+    21300262: tileset example alpha_131
+    21300264: tileset example alpha_132
+    21300266: tileset example alpha_133
+    21300268: tileset example alpha_134
+    21300270: tileset example alpha_135
+    21300272: tileset example alpha_136
+    21300274: tileset example alpha_137
+    21300276: tileset example alpha_138
+    21300278: tileset example alpha_139
+    21300280: tileset example alpha_140
+    21300282: tileset example alpha_141
+    21300284: tileset example alpha_142
+    21300286: tileset example alpha_143
+    21300288: tileset example alpha_144
+    21300290: tileset example alpha_145
+    21300292: tileset example alpha_146
+    21300294: tileset example alpha_147
+    21300296: tileset example alpha_148
+    21300298: tileset example alpha_149
+    21300300: tileset example alpha_150
+    21300302: tileset example alpha_151
+    21300304: tileset example alpha_152
+    21300306: tileset example alpha_153
+    21300308: tileset example alpha_154
+    21300310: tileset example alpha_155
+    21300312: tileset example alpha_156
+    21300314: tileset example alpha_157
+    21300316: tileset example alpha_158
+    21300318: tileset example alpha_159
+    21300320: tileset example alpha_160
+    21300322: tileset example alpha_161
+    21300324: tileset example alpha_162
+    21300326: tileset example alpha_163
+    21300328: tileset example alpha_164
+    21300330: tileset example alpha_165
+    21300332: tileset example alpha_166
+    21300334: tileset example alpha_167
+    21300336: tileset example alpha_168
+    21300338: tileset example alpha_169
+    21300340: tileset example alpha_170
+    21300342: tileset example alpha_171
+    21300344: tileset example alpha_172
+    21300346: tileset example alpha_173
+    21300348: tileset example alpha_174
+    21300350: tileset example alpha_175
+    21300352: tileset example alpha_176
+    21300354: tileset example alpha_177
+    21300356: tileset example alpha_178
+    21300358: tileset example alpha_179
+    21300360: tileset example alpha_180
+    21300362: tileset example alpha_181
+    21300364: tileset example alpha_182
+    21300366: tileset example alpha_183
+    21300368: tileset example alpha_184
+    21300370: tileset example alpha_185
+    21300372: tileset example alpha_186
+    21300374: tileset example alpha_187
+    21300376: tileset example alpha_188
+    21300378: tileset example alpha_189
+    21300380: tileset example alpha_190
+    21300382: tileset example alpha_191
+    21300384: tileset example alpha_192
+    21300386: tileset example alpha_193
+    21300388: tileset example alpha_194
+    21300390: tileset example alpha_195
+    21300392: tileset example alpha_196
+    21300394: tileset example alpha_197
+    21300396: tileset example alpha_198
+    21300398: tileset example alpha_199
+    21300400: tileset example alpha_200
+    21300402: tileset example alpha_201
+    21300404: tileset example alpha_202
+    21300406: tileset example alpha_203
+    21300408: tileset example alpha_204
+    21300410: tileset example alpha_205
+    21300412: tileset example alpha_206
+    21300414: tileset example alpha_207
+    21300416: tileset example alpha_208
+    21300418: tileset example alpha_209
+    21300420: tileset example alpha_210
+    21300422: tileset example alpha_211
+    21300424: tileset example alpha_212
+    21300426: tileset example alpha_213
+    21300428: tileset example alpha_214
+    21300430: tileset example alpha_215
+    21300432: tileset example alpha_216
+    21300434: tileset example alpha_217
+    21300436: tileset example alpha_218
+    21300438: tileset example alpha_219
+    21300440: tileset example alpha_220
+    21300442: tileset example alpha_221
+    21300444: tileset example alpha_222
+    21300446: tileset example alpha_223
+    21300448: tileset example alpha_224
+    21300450: tileset example alpha_225
+    21300452: tileset example alpha_226
+    21300454: tileset example alpha_227
+    21300456: tileset example alpha_228
+    21300458: tileset example alpha_229
+    21300460: tileset example alpha_230
+    21300462: tileset example alpha_231
+    21300464: tileset example alpha_232
+    21300466: tileset example alpha_233
+    21300468: tileset example alpha_234
+    21300470: tileset example alpha_235
+    21300472: tileset example alpha_236
+    21300474: tileset example alpha_237
+    21300476: tileset example alpha_238
+    21300478: tileset example alpha_239
+    21300480: tileset example alpha_240
+    21300482: tileset example alpha_241
+    21300484: tileset example alpha_242
+    21300486: tileset example alpha_243
+    21300488: tileset example alpha_244
+    21300490: tileset example alpha_245
+    21300492: tileset example alpha_246
+    21300494: tileset example alpha_247
+    21300496: tileset example alpha_248
+    21300498: tileset example alpha_249
+    21300500: tileset example alpha_250
+    21300502: tileset example alpha_251
+    21300504: tileset example alpha_252
+    21300506: tileset example alpha_253
+    21300508: tileset example alpha_254
+    21300510: tileset example alpha_255
+    21300512: tileset example alpha_256
+    21300514: tileset example alpha_257
+    21300516: tileset example alpha_258
+    21300518: tileset example alpha_259
+    21300520: tileset example alpha_260
+    21300522: tileset example alpha_261
+    21300524: tileset example alpha_262
+    21300526: tileset example alpha_263
+    21300528: tileset example alpha_264
+    21300530: tileset example alpha_265
+    21300532: tileset example alpha_266
+    21300534: tileset example alpha_267
+    21300536: tileset example alpha_268
+    21300538: tileset example alpha_269
+    21300540: tileset example alpha_270
+    21300542: tileset example alpha_271
+    21300544: tileset example alpha_272
+    21300546: tileset example alpha_273
+    21300548: tileset example alpha_274
+    21300550: tileset example alpha_275
+    21300552: tileset example alpha_276
+    21300554: tileset example alpha_277
+    21300556: tileset example alpha_278
+    21300558: tileset example alpha_279
+    21300560: tileset example alpha_280
+    21300562: tileset example alpha_281
+    21300564: tileset example alpha_282
+    21300566: tileset example alpha_283
+    21300568: tileset example alpha_284
+    21300570: tileset example alpha_285
+    21300572: tileset example alpha_286
+    21300574: tileset example alpha_287
+    21300576: tileset example alpha_288
+    21300578: tileset example alpha_289
+    21300580: tileset example alpha_290
+    21300582: tileset example alpha_291
+    21300584: tileset example alpha_292
+    21300586: tileset example alpha_293
+    21300588: tileset example alpha_294
+    21300590: tileset example alpha_295
+    21300592: tileset example alpha_296
+    21300594: tileset example alpha_297
+    21300596: tileset example alpha_298
+    21300598: tileset example alpha_299
+    21300600: tileset example alpha_300
+    21300602: tileset example alpha_301
+    21300604: tileset example alpha_302
+    21300606: tileset example alpha_303
+    21300608: tileset example alpha_304
+    21300610: tileset example alpha_305
+    21300612: tileset example alpha_306
+    21300614: tileset example alpha_307
+    21300616: tileset example alpha_308
+    21300618: tileset example alpha_309
+    21300620: tileset example alpha_310
+    21300622: tileset example alpha_311
+    21300624: tileset example alpha_312
+    21300626: tileset example alpha_313
+    21300628: tileset example alpha_314
+    21300630: tileset example alpha_315
+    21300632: tileset example alpha_316
+    21300634: tileset example alpha_317
+    21300636: tileset example alpha_318
+    21300638: tileset example alpha_319
+    21300640: tileset example alpha_320
+    21300642: tileset example alpha_321
+    21300644: tileset example alpha_322
+    21300646: tileset example alpha_323
+    21300648: tileset example alpha_324
+    21300650: tileset example alpha_325
+    21300652: tileset example alpha_326
+    21300654: tileset example alpha_327
+    21300656: tileset example alpha_328
+    21300658: tileset example alpha_329
+    21300660: tileset example alpha_330
+    21300662: tileset example alpha_331
+    21300664: tileset example alpha_332
+    21300666: tileset example alpha_333
+    21300668: tileset example alpha_334
+    21300670: tileset example alpha_335
+    21300672: tileset example alpha_336
+    21300674: tileset example alpha_337
+    21300676: tileset example alpha_338
+    21300678: tileset example alpha_339
+    21300680: tileset example alpha_340
+    21300682: tileset example alpha_341
+    21300684: tileset example alpha_342
+    21300686: tileset example alpha_343
+    21300688: tileset example alpha_344
+    21300690: tileset example alpha_345
+    21300692: tileset example alpha_346
+    21300694: tileset example alpha_347
+    21300696: tileset example alpha_348
+    21300698: tileset example alpha_349
+    21300700: tileset example alpha_350
+    21300702: tileset example alpha_351
+    21300704: tileset example alpha_352
+    21300706: tileset example alpha_353
+    21300708: tileset example alpha_354
+    21300710: tileset example alpha_355
+    21300712: tileset example alpha_356
+    21300714: tileset example alpha_357
+    21300716: tileset example alpha_358
+    21300718: tileset example alpha_359
+    21300720: tileset example alpha_360
+    21300722: tileset example alpha_361
+    21300724: tileset example alpha_362
+    21300726: tileset example alpha_363
+    21300728: tileset example alpha_364
+    21300730: tileset example alpha_365
+    21300732: tileset example alpha_366
+    21300734: tileset example alpha_367
+    21300736: tileset example alpha_368
+    21300738: tileset example alpha_369
+    21300740: tileset example alpha_370
+    21300742: tileset example alpha_371
+    21300744: tileset example alpha_372
+    21300746: tileset example alpha_373
+    21300748: tileset example alpha_374
+    21300750: tileset example alpha_375
+    21300752: tileset example alpha_376
+    21300754: tileset example alpha_377
+    21300756: tileset example alpha_378
+    21300758: tileset example alpha_379
+    21300760: tileset example alpha_380
+    21300762: tileset example alpha_381
+    21300764: tileset example alpha_382
+    21300766: tileset example alpha_383
+    21300768: tileset example alpha_384
+    21300770: tileset example alpha_385
+    21300772: tileset example alpha_386
+    21300774: tileset example alpha_387
+    21300776: tileset example alpha_388
+    21300778: tileset example alpha_389
+    21300780: tileset example alpha_390
+    21300782: tileset example alpha_391
+    21300784: tileset example alpha_392
+    21300786: tileset example alpha_393
+    21300788: tileset example alpha_394
+    21300790: tileset example alpha_395
+    21300792: tileset example alpha_396
+    21300794: tileset example alpha_397
+    21300796: tileset example alpha_398
+    21300798: tileset example alpha_399
+    21300800: tileset example alpha_400
+    21300802: tileset example alpha_401
+    21300804: tileset example alpha_402
+    21300806: tileset example alpha_403
+    21300808: tileset example alpha_404
+    21300810: tileset example alpha_405
+    21300812: tileset example alpha_406
+    21300814: tileset example alpha_407
+    21300816: tileset example alpha_408
+    21300818: tileset example alpha_409
+    21300820: tileset example alpha_410
+    21300822: tileset example alpha_411
+    21300824: tileset example alpha_412
+    21300826: tileset example alpha_413
+    21300828: tileset example alpha_414
+    21300830: tileset example alpha_415
+    21300832: tileset example alpha_416
+    21300834: tileset example alpha_417
+    21300836: tileset example alpha_418
+    21300838: tileset example alpha_419
+    21300840: tileset example alpha_420
+    21300842: tileset example alpha_421
+    21300844: tileset example alpha_422
+    21300846: tileset example alpha_423
+    21300848: tileset example alpha_424
+    21300850: tileset example alpha_425
+    21300852: tileset example alpha_426
+    21300854: tileset example alpha_427
+    21300856: tileset example alpha_428
+    21300858: tileset example alpha_429
+    21300860: tileset example alpha_430
+    21300862: tileset example alpha_431
+    21300864: tileset example alpha_432
+    21300866: tileset example alpha_433
+    21300868: tileset example alpha_434
+    21300870: tileset example alpha_435
+    21300872: tileset example alpha_436
+    21300874: tileset example alpha_437
+    21300876: tileset example alpha_438
+    21300878: tileset example alpha_439
+    21300880: tileset example alpha_440
+    21300882: tileset example alpha_441
+    21300884: tileset example alpha_442
+    21300886: tileset example alpha_443
+    21300888: tileset example alpha_444
+    21300890: tileset example alpha_445
+    21300892: tileset example alpha_446
+    21300894: tileset example alpha_447
+    21300896: tileset example alpha_448
+    21300898: tileset example alpha_449
+    21300900: tileset example alpha_450
+    21300902: tileset example alpha_451
+    21300904: tileset example alpha_452
+    21300906: tileset example alpha_453
+    21300908: tileset example alpha_454
+    21300910: tileset example alpha_455
+    21300912: tileset example alpha_456
+    21300914: tileset example alpha_457
+    21300916: tileset example alpha_458
+    21300918: tileset example alpha_459
+    21300920: tileset example alpha_460
+    21300922: tileset example alpha_461
+    21300924: tileset example alpha_462
+    21300926: tileset example alpha_463
+    21300928: tileset example alpha_464
+    21300930: tileset example alpha_465
+    21300932: tileset example alpha_466
+    21300934: tileset example alpha_467
+    21300936: tileset example alpha_468
+    21300938: tileset example alpha_469
+    21300940: tileset example alpha_470
+    21300942: tileset example alpha_471
+    21300944: tileset example alpha_472
+    21300946: tileset example alpha_473
+    21300948: tileset example alpha_474
+    21300950: tileset example alpha_475
+    21300952: tileset example alpha_476
+    21300954: tileset example alpha_477
+    21300956: tileset example alpha_478
+    21300958: tileset example alpha_479
+    21300960: tileset example alpha_480
+    21300962: tileset example alpha_481
+    21300964: tileset example alpha_482
+    21300966: tileset example alpha_483
+    21300968: tileset example alpha_484
+    21300970: tileset example alpha_485
+    21300972: tileset example alpha_486
+    21300974: tileset example alpha_487
+    21300976: tileset example alpha_488
+    21300978: tileset example alpha_489
+    21300980: tileset example alpha_490
+    21300982: tileset example alpha_491
+    21300984: tileset example alpha_492
+    21300986: tileset example alpha_493
+    21300988: tileset example alpha_494
+    21300990: tileset example alpha_495
+    21300992: tileset example alpha_496
+    21300994: tileset example alpha_497
+    21300996: tileset example alpha_498
+    21300998: tileset example alpha_499
+    21301000: tileset example alpha_500
+    21301002: tileset example alpha_501
+    21301004: tileset example alpha_502
+    21301006: tileset example alpha_503
+    21301008: tileset example alpha_504
+    21301010: tileset example alpha_505
+    21301012: tileset example alpha_506
+    21301014: tileset example alpha_507
+    21301016: tileset example alpha_508
+    21301018: tileset example alpha_509
+    21301020: tileset example alpha_510
+    21301022: tileset example alpha_511
+    21301024: tileset example alpha_512
+    21301026: tileset example alpha_513
+    21301028: tileset example alpha_514
+    21301030: tileset example alpha_515
+    21301032: tileset example alpha_516
+    21301034: tileset example alpha_517
+    21301036: tileset example alpha_518
+    21301038: tileset example alpha_519
+    21301040: tileset example alpha_520
+    21301042: tileset example alpha_521
+    21301044: tileset example alpha_522
+    21301046: tileset example alpha_523
+    21301048: tileset example alpha_524
+    21301050: tileset example alpha_525
+    21301052: tileset example alpha_526
+    21301054: tileset example alpha_527
+    21301056: tileset example alpha_528
+    21301058: tileset example alpha_529
+    21301060: tileset example alpha_530
+    21301062: tileset example alpha_531
+    21301064: tileset example alpha_532
+    21301066: tileset example alpha_533
+    21301068: tileset example alpha_534
+    21301070: tileset example alpha_535
+    21301072: tileset example alpha_536
+    21301074: tileset example alpha_537
+    21301076: tileset example alpha_538
+    21301078: tileset example alpha_539
+    21301080: tileset example alpha_540
+    21301082: tileset example alpha_541
+    21301084: tileset example alpha_542
+    21301086: tileset example alpha_543
+    21301088: tileset example alpha_544
+    21301090: tileset example alpha_545
+    21301092: tileset example alpha_546
+    21301094: tileset example alpha_547
+    21301096: tileset example alpha_548
+    21301098: tileset example alpha_549
+    21301100: tileset example alpha_550
+    21301102: tileset example alpha_551
+    21301104: tileset example alpha_552
+    21301106: tileset example alpha_553
+    21301108: tileset example alpha_554
+    21301110: tileset example alpha_555
+    21301112: tileset example alpha_556
+    21301114: tileset example alpha_557
+    21301116: tileset example alpha_558
+    21301118: tileset example alpha_559
+    21301120: tileset example alpha_560
+    21301122: tileset example alpha_561
+    21301124: tileset example alpha_562
+    21301126: tileset example alpha_563
+    21301128: tileset example alpha_564
+    21301130: tileset example alpha_565
+    21301132: tileset example alpha_566
+    21301134: tileset example alpha_567
+    21301136: tileset example alpha_568
+    21301138: tileset example alpha_569
+    21301140: tileset example alpha_570
+    21301142: tileset example alpha_571
+    21301144: tileset example alpha_572
+    21301146: tileset example alpha_573
+    21301148: tileset example alpha_574
+    21301150: tileset example alpha_575
+    21301152: tileset example alpha_576
+    21301154: tileset example alpha_577
+    21301156: tileset example alpha_578
+    21301158: tileset example alpha_579
+    21301160: tileset example alpha_580
+    21301162: tileset example alpha_581
+    21301164: tileset example alpha_582
+    21301166: tileset example alpha_583
+    21301168: tileset example alpha_584
+    21301170: tileset example alpha_585
+    21301172: tileset example alpha_586
+    21301174: tileset example alpha_587
+    21301176: tileset example alpha_588
+    21301178: tileset example alpha_589
+    21301180: tileset example alpha_590
+    21301182: tileset example alpha_591
+    21301184: tileset example alpha_592
+    21301186: tileset example alpha_593
+    21301188: tileset example alpha_594
+    21301190: tileset example alpha_595
+    21301192: tileset example alpha_596
+    21301194: tileset example alpha_597
+    21301196: tileset example alpha_598
+    21301198: tileset example alpha_599
+    21301200: tileset example alpha_600
+    21301202: tileset example alpha_601
+    21301204: tileset example alpha_602
+    21301206: tileset example alpha_603
+    21301208: tileset example alpha_604
+    21301210: tileset example alpha_605
+    21301212: tileset example alpha_606
+    21301214: tileset example alpha_607
+    21301216: tileset example alpha_608
+    21301218: tileset example alpha_609
+    21301220: tileset example alpha_610
+    21301222: tileset example alpha_611
+    21301224: tileset example alpha_612
+    21301226: tileset example alpha_613
+    21301228: tileset example alpha_614
+    21301230: tileset example alpha_615
+    21301232: tileset example alpha_616
+    21301234: tileset example alpha_617
+    21301236: tileset example alpha_618
+    21301238: tileset example alpha_619
+    21301240: tileset example alpha_620
+    21301242: tileset example alpha_621
+    21301244: tileset example alpha_622
+    21301246: tileset example alpha_623
+    21301248: tileset example alpha_624
+    21301250: tileset example alpha_625
+    21301252: tileset example alpha_626
+    21301254: tileset example alpha_627
+    21301256: tileset example alpha_628
+    21301258: tileset example alpha_629
+    21301260: tileset example alpha_630
+    21301262: tileset example alpha_631
+    21301264: tileset example alpha_632
+    21301266: tileset example alpha_633
+    21301268: tileset example alpha_634
+    21301270: tileset example alpha_635
+    21301272: tileset example alpha_636
+    21301274: tileset example alpha_637
+    21301276: tileset example alpha_638
+    21301278: tileset example alpha_639
+    21301280: tileset example alpha_640
+    21301282: tileset example alpha_641
+    21301284: tileset example alpha_642
+    21301286: tileset example alpha_643
+    21301288: tileset example alpha_644
+    21301290: tileset example alpha_645
+    21301292: tileset example alpha_646
+    21301294: tileset example alpha_647
+    21301296: tileset example alpha_648
+    21301298: tileset example alpha_649
+    21301300: tileset example alpha_650
+    21301302: tileset example alpha_651
+    21301304: tileset example alpha_652
+    21301306: tileset example alpha_653
+    21301308: tileset example alpha_654
+    21301310: tileset example alpha_655
+    21301312: tileset example alpha_656
+    21301314: tileset example alpha_657
+    21301316: tileset example alpha_658
+    21301318: tileset example alpha_659
+    21301320: tileset example alpha_660
+    21301322: tileset example alpha_661
+    21301324: tileset example alpha_662
+    21301326: tileset example alpha_663
+    21301328: tileset example alpha_664
+    21301330: tileset example alpha_665
+    21301332: tileset example alpha_666
+    21301334: tileset example alpha_667
+    21301336: tileset example alpha_668
+    21301338: tileset example alpha_669
+    21301340: tileset example alpha_670
+    21301342: tileset example alpha_671
+    21301344: tileset example alpha_672
+    21301346: tileset example alpha_673
+    21301348: tileset example alpha_674
+    21301350: tileset example alpha_675
+    21301352: tileset example alpha_676
+    21301354: tileset example alpha_677
+    21301356: tileset example alpha_678
+    21301358: tileset example alpha_679
+    21301360: tileset example alpha_680
+    21301362: tileset example alpha_681
+    21301364: tileset example alpha_682
+    21301366: tileset example alpha_683
+    21301368: tileset example alpha_684
+    21301370: tileset example alpha_685
+    21301372: tileset example alpha_686
+    21301374: tileset example alpha_687
+    21301376: tileset example alpha_688
+    21301378: tileset example alpha_689
+    21301380: tileset example alpha_690
+    21301382: tileset example alpha_691
+    21301384: tileset example alpha_692
+    21301386: tileset example alpha_693
+    21301388: tileset example alpha_694
+    21301390: tileset example alpha_695
+    21301392: tileset example alpha_696
+    21301394: tileset example alpha_697
+    21301396: tileset example alpha_698
+    21301398: tileset example alpha_699
+    21301400: tileset example alpha_700
+    21301402: tileset example alpha_701
+    21301404: tileset example alpha_702
+    21301406: tileset example alpha_703
+    21301408: tileset example alpha_704
+    21301410: tileset example alpha_705
+    21301412: tileset example alpha_706
+    21301414: tileset example alpha_707
+    21301416: tileset example alpha_708
+    21301418: tileset example alpha_709
+    21301420: tileset example alpha_710
+    21301422: tileset example alpha_711
+    21301424: tileset example alpha_712
+    21301426: tileset example alpha_713
+    21301428: tileset example alpha_714
+    21301430: tileset example alpha_715
+    21301432: tileset example alpha_716
+    21301434: tileset example alpha_717
+    21301436: tileset example alpha_718
+    21301438: tileset example alpha_719
+    21301440: tileset example alpha_720
+    21301442: tileset example alpha_721
+    21301444: tileset example alpha_722
+    21301446: tileset example alpha_723
+    21301448: tileset example alpha_724
+    21301450: tileset example alpha_725
+    21301452: tileset example alpha_726
+    21301454: tileset example alpha_727
+    21301456: tileset example alpha_728
+    21301458: tileset example alpha_729
+    21301460: tileset example alpha_730
+    21301462: tileset example alpha_731
+    21301464: tileset example alpha_732
+    21301466: tileset example alpha_733
+    21301468: tileset example alpha_734
+    21301470: tileset example alpha_735
+    21301472: tileset example alpha_736
+    21301474: tileset example alpha_737
+    21301476: tileset example alpha_738
+    21301478: tileset example alpha_739
+    21301480: tileset example alpha_740
+    21301482: tileset example alpha_741
+    21301484: tileset example alpha_742
+    21301486: tileset example alpha_743
+    21301488: tileset example alpha_744
+    21301490: tileset example alpha_745
+    21301492: tileset example alpha_746
+    21301494: tileset example alpha_747
+    21301496: tileset example alpha_748
+    21301498: tileset example alpha_749
+    21301500: tileset example alpha_750
+    21301502: tileset example alpha_751
+    21301504: tileset example alpha_752
+    21301506: tileset example alpha_753
+    21301508: tileset example alpha_754
+    21301510: tileset example alpha_755
+    21301512: tileset example alpha_756
+    21301514: tileset example alpha_757
+    21301516: tileset example alpha_758
+    21301518: tileset example alpha_759
+    21301520: tileset example alpha_760
+    21301522: tileset example alpha_761
+    21301524: tileset example alpha_762
+    21301526: tileset example alpha_763
+    21301528: tileset example alpha_764
+    21301530: tileset example alpha_765
+    21301532: tileset example alpha_766
+    21301534: tileset example alpha_767
+    21301536: tileset example alpha_768
+    21301538: tileset example alpha_769
+    21301540: tileset example alpha_770
+    21301542: tileset example alpha_771
+    21301544: tileset example alpha_772
+    21301546: tileset example alpha_773
+    21301548: tileset example alpha_774
+    21301550: tileset example alpha_775
+    21301552: tileset example alpha_776
+    21301554: tileset example alpha_777
+    21301556: tileset example alpha_778
+    21301558: tileset example alpha_779
+    21301560: tileset example alpha_780
+    21301562: tileset example alpha_781
+    21301564: tileset example alpha_782
+    21301566: tileset example alpha_783
+    21301568: tileset example alpha_784
+    21301570: tileset example alpha_785
+    21301572: tileset example alpha_786
+    21301574: tileset example alpha_787
+    21301576: tileset example alpha_788
+    21301578: tileset example alpha_789
+    21301580: tileset example alpha_790
+    21301582: tileset example alpha_791
+    21301584: tileset example alpha_792
+    21301586: tileset example alpha_793
+    21301588: tileset example alpha_794
+    21301590: tileset example alpha_795
+    21301592: tileset example alpha_796
+    21301594: tileset example alpha_797
+    21301596: tileset example alpha_798
+    21301598: tileset example alpha_799
+    21301600: tileset example alpha_800
+    21301602: tileset example alpha_801
+    21301604: tileset example alpha_802
+    21301606: tileset example alpha_803
+    21301608: tileset example alpha_804
+    21301610: tileset example alpha_805
+    21301612: tileset example alpha_806
+    21301614: tileset example alpha_807
+    21301616: tileset example alpha_808
+    21301618: tileset example alpha_809
+    21301620: tileset example alpha_810
+    21301622: tileset example alpha_811
+    21301624: tileset example alpha_812
+    21301626: tileset example alpha_813
+    21301628: tileset example alpha_814
+    21301630: tileset example alpha_815
+    21301632: tileset example alpha_816
+    21301634: tileset example alpha_817
+    21301636: tileset example alpha_818
+    21301638: tileset example alpha_819
+    21301640: tileset example alpha_820
+    21301642: tileset example alpha_821
+    21301644: tileset example alpha_822
+    21301646: tileset example alpha_823
+    21301648: tileset example alpha_824
+    21301650: tileset example alpha_825
+    21301652: tileset example alpha_826
+    21301654: tileset example alpha_827
+    21301656: tileset example alpha_828
+    21301658: tileset example alpha_829
+    21301660: tileset example alpha_830
+    21301662: tileset example alpha_831
+    21301664: tileset example alpha_832
+    21301666: tileset example alpha_833
+    21301668: tileset example alpha_834
+    21301670: tileset example alpha_835
+    21301672: tileset example alpha_836
+    21301674: tileset example alpha_837
+    21301676: tileset example alpha_838
+    21301678: tileset example alpha_839
+    21301680: tileset example alpha_840
+    21301682: tileset example alpha_841
+    21301684: tileset example alpha_842
+    21301686: tileset example alpha_843
+    21301688: tileset example alpha_844
+    21301690: tileset example alpha_845
+    21301692: tileset example alpha_846
+    21301694: tileset example alpha_847
+    21301696: tileset example alpha_848
+    21301698: tileset example alpha_849
+    21301700: tileset example alpha_850
+    21301702: tileset example alpha_851
+    21301704: tileset example alpha_852
+    21301706: tileset example alpha_853
+    21301708: tileset example alpha_854
+    21301710: tileset example alpha_855
+    21301712: tileset example alpha_856
+    21301714: tileset example alpha_857
+    21301716: tileset example alpha_858
+    21301718: tileset example alpha_859
+    21301720: tileset example alpha_860
+    21301722: tileset example alpha_861
+    21301724: tileset example alpha_862
+    21301726: tileset example alpha_863
+    21301728: tileset example alpha_864
+    21301730: tileset example alpha_865
+    21301732: tileset example alpha_866
+    21301734: tileset example alpha_867
+    21301736: tileset example alpha_868
+    21301738: tileset example alpha_869
+    21301740: tileset example alpha_870
+    21301742: tileset example alpha_871
+    21301744: tileset example alpha_872
+    21301746: tileset example alpha_873
+    21301748: tileset example alpha_874
+    21301750: tileset example alpha_875
+    21301752: tileset example alpha_876
+    21301754: tileset example alpha_877
+    21301756: tileset example alpha_878
+    21301758: tileset example alpha_879
+    21301760: tileset example alpha_880
+    21301762: tileset example alpha_881
+    21301764: tileset example alpha_882
+    21301766: tileset example alpha_883
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset example alpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 333
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 333
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 333
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 333
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 237
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 237
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 237
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 237
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 141
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 141
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 141
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 141
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 45
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 45
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset example alpha_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 45
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

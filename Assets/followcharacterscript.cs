@@ -26,6 +26,7 @@ public class followcharacterscript : MonoBehaviour {
         if(distanceToPlayer < range)
         {
             followPlayer();
+            range = 10f;
         }
        
 	}
@@ -33,14 +34,14 @@ public class followcharacterscript : MonoBehaviour {
     {
         if (currentPlayer != null)
         {
-            if (currentPlayer.transform.position.x < transform.position.x)
+            if (currentPlayer.transform.position.x + 1f < transform.position.x)
             {
-                transform.position -= new Vector3(speedOfEnemy / 10, 0, 0);
+                transform.position -= new Vector3(speedOfEnemy / 100, 0, 0);
                 transform.SetPositionAndRotation(transform.position, new Quaternion(transform.rotation.x, 0, transform.rotation.z, transform.rotation.w));
 
 
             }
-            else if(currentPlayer.transform.position.x > transform.position.x)
+            else if(currentPlayer.transform.position.x -1f > transform.position.x)
             {
                 transform.position += new Vector3(speedOfEnemy / 10, 0, 0);
                 transform.SetPositionAndRotation(transform.position, new Quaternion(transform.rotation.x, 180, transform.rotation.z, transform.rotation.w));
